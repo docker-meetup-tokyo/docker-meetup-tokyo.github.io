@@ -1,0 +1,11 @@
+baseurl = "http://docker-meetup-tokyo.github.io/"
+languageCode = "en-us"
+title = "Tokyo Docker Meetup "
+
+tags = ["docker", "tokyo"]
+features = ["", ""]
+min_version = 0.14
+
+[author]
+  name = "Docker Meetup"
+
