@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://docker-meetup-tokyo.github.io/</loc>
+    <lastmod>2015-12-24T14:25:10+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://docker-meetup-tokyo.github.io/CFP/</loc>
+    <lastmod>2015-12-24T14:25:10+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://docker-meetup-tokyo.github.io/calender/</loc>
+    <lastmod>2015-12-24T14:24:52+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://docker-meetup-tokyo.github.io/about/</loc>
+    <lastmod>2015-12-24T13:28:51+09:00</lastmod>
+  </url>
+  
+</urlset>

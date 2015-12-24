@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tokyo Docker Meetup </title>
+    <link>http://docker-meetup-tokyo.github.io/</link>
+    <description>Recent content on Tokyo Docker Meetup </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Dec 2015 14:25:10 +0900</lastBuildDate>
+    <atom:link href="http://docker-meetup-tokyo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CFP</title>
+      <link>http://docker-meetup-tokyo.github.io/CFP/</link>
+      <pubDate>Thu, 24 Dec 2015 14:25:10 +0900</pubDate>
+      
+      <guid>http://docker-meetup-tokyo.github.io/CFP/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>calender</title>
+      <link>http://docker-meetup-tokyo.github.io/calender/</link>
+      <pubDate>Thu, 24 Dec 2015 14:24:52 +0900</pubDate>
+      
+      <guid>http://docker-meetup-tokyo.github.io/calender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://docker-meetup-tokyo.github.io/about/</link>
+      <pubDate>Thu, 24 Dec 2015 13:28:51 +0900</pubDate>
+      
+      <guid>http://docker-meetup-tokyo.github.io/about/</guid>
+      <description>&lt;p&gt;Coming Soon.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
